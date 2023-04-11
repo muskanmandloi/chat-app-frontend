@@ -13,7 +13,7 @@ function Navigation() {
         await logoutUser(user);
         console.log("logout done");
         // redirect to home page
-        window.location.replace("/");
+//         window.location.replace("/");
     }
     return (
         <Navbar bg="light" expand="lg">
