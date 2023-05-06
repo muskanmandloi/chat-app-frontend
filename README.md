@@ -6,12 +6,11 @@
 # How to use
 You can have this application up and running with just a few steps because it has both the frontend and the backend in two repository. Follow the steps below to do so.
 # Technologies Stack
-MERN
-ReacJS
-NodeJS
-ExpressJS
-MongoDB
-Socket.io
+MERN,
+ReacJS,
+NodeJS,
+ExpressJS,
+MongoDB,
 Material UI
 # Clone this repo
 Once you have the repo, you need to install its dependencies. So using a terminal, move into the root directory of the project and execute npm install to install the dependencies of the Node.js server and then run npm run client-install to install the dependencies of the frontend. The second command is a custom command that I wrote to simplify the installation process.
