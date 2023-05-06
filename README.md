@@ -5,7 +5,14 @@
 ![React App - Google Chrome 13-04-2023 11_03_26](https://user-images.githubusercontent.com/54906865/231663021-f769d9c3-c13e-4fec-83a1-183001fc3456.png)
 # How to use
 You can have this application up and running with just a few steps because it has both the frontend and the backend in two repository. Follow the steps below to do so.
-
+# Technologies Stack
+MERN
+ReacJS
+NodeJS
+ExpressJS
+MongoDB
+Socket.io
+Material UI
 # Clone this repo
 Once you have the repo, you need to install its dependencies. So using a terminal, move into the root directory of the project and execute npm install to install the dependencies of the Node.js server and then run npm run client-install to install the dependencies of the frontend. The second command is a custom command that I wrote to simplify the installation process.
 This application uses MongoDB as its Database. So make sure you have it installed. You can find detailed guides on how to do so here. Once installed, make sure that your local MongoDB server is not protected by any kind of authentication. If there is authentication involved, make sure you edit the mongoURI in the config/keys.js file.
